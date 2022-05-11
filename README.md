@@ -180,15 +180,17 @@ iv) Using Median Filter
 
 
 ### 2. Sharpening Filters
-![f11](https://user-images.githubusercontent.com/75241366/167802988-10b6cc20-3b1c-4c59-8f32-3ca2e2004ca0.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167811564-a1ebd272-7546-4dbf-843c-04b08b1b8343.png)
+
 
 
 i) Using Laplacian Kernal
-![f12](https://user-images.githubusercontent.com/75241366/167803074-749c376d-b229-4a1f-9273-a90ad82b1643.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167811719-a9340e5b-aeb5-488a-81e5-b190b2f79999.png)
+
 
 
 ii) Using Laplacian Operator
-![f12 (1)](https://user-images.githubusercontent.com/75241366/167803164-6405e54a-e2fb-49df-8c56-e5c62b9dc3ee.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167811742-3b9d667e-5668-4328-9bcb-de6e7062fe31.png)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
