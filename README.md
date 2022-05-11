@@ -162,7 +162,8 @@ plt.imshow(img7)
 </br>
 
 i) Using Averaging Filter
-![f7 (2)](https://user-images.githubusercontent.com/75241366/167802299-9cb5e945-1afe-44f5-849f-74d7b5e5344c.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167810086-f28ad41a-de01-49e2-af13-35604fb9b7c3.png)
+
 
 ii) Using Weighted Averaging Filter
 
