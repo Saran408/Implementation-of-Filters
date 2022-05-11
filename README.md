@@ -166,15 +166,17 @@ i) Using Averaging Filter
 
 
 ii) Using Weighted Averaging Filter
+![image](https://user-images.githubusercontent.com/75235427/167810589-7188abd1-3e3a-4a64-b264-4fffda7451f9.png)
 
-![f8](https://user-images.githubusercontent.com/75241366/167802381-1bbbf283-29b9-4d9f-a902-db27151f3189.jpg)
 
 iii) Using Gaussian Filter
-![f9 (1)](https://user-images.githubusercontent.com/75241366/167802474-38a232ff-96b3-409b-92a2-e77aab0333c0.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167810733-8c2287ee-b883-4fcb-9602-ec2f69ab2116.png)
+
 
 
 iv) Using Median Filter
-![f10](https://user-images.githubusercontent.com/75241366/167802629-c3a61da2-aa8b-4333-8af3-001dd9e39bbf.jpg)
+![image](https://user-images.githubusercontent.com/75235427/167810919-4e81272e-9068-4a53-bfb2-bbef898697b0.png)
+
 
 
 ### 2. Sharpening Filters
