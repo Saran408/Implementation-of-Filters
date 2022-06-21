@@ -1,15 +1,20 @@
-# Implementation-of-Filters
+### EXP NO: 06
+### DATE:
+
+# <p align='center'>Implementation-of-Filters</p>
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
 ## Software Required:
 Anaconda - Python 3.7
 
-###Algorithm:
-### Step1
+## Algorithm:
+### Step 1:
 Import the necessary modules
+
+### Step 2:
+
 ```
-### Step2
 For performing smoothing operation on a image.
 ```
 Average filter:
@@ -26,7 +31,7 @@ gaussian_blur=cv2.GaussianBlur(image,(31,31),0,0)
 Median filter:
 ```
 median_blur=cv2.medianBlur(image,11)
-### Step3
+### Step 3:
 For performing sharpening on a image.
 ```
 Laplacian Kernel:
@@ -148,13 +153,6 @@ plt.subplot(1,2,2)
 plt.axis("off")
 plt.title('Average Filter image')
 plt.imshow(img7)
-
-
-
-
-
-
-
 ```
 
 ## OUTPUT:
